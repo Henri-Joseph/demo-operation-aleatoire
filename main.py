@@ -34,7 +34,7 @@ def poser_qut():
     return False
 
 
-# Poser plusieur question
+# Poser plusieurs question
 point = 0
 for i in range(0, NBR_QUS):
     nq = i + 1
