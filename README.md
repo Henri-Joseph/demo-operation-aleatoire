@@ -6,3 +6,4 @@ Elle regroupe les fonctions suivantes :
 - Fonction
 - Condition
 #python
+![Capture d’écran 2023-07-26 215525](https://github.com/Henri-Joseph/demo-operation-aleatoire/assets/122472490/917dcd6f-4002-4844-b74a-b4697fbab2ad)
