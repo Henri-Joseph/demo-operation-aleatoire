@@ -13,19 +13,19 @@ def poser_qut():
     # Obtention du resultat
     if o == 0:
         opr = "*"
-        resp_str = input(f"Quel est le resultat de {a} {opr} {b} ? ")
+        resp_str = input(f"Quel est le resultat de l'opération suivante : {a} {opr} {b} ? ")
         res = a*b
     elif o == 1:
         opr = "+"
-        resp_str = input(f"Quel est le resultat de {a} {opr} {b} ? ")
+        resp_str = input(f"Quel est le resultat de l'opération suivante : {a} {opr} {b} ? ")
         res = a+b
     elif o == 2:
         opr = "/"
-        resp_str = input(f"Quel est la partie entière de {a} {opr} {b} ? ")
+        resp_str = input(f"Quel est la partie entière de l'opération suivante : {a} {opr} {b} ? ")
         res = int(a/b)
     elif o == 3:
         opr = "-"
-        resp_str = input(f"Quel est le resultat de {a} {opr} {b} ? ")
+        resp_str = input(f"Quel est le resultat de l'opération suivante : {a} {opr} {b} ? ")
         res = a-b
 
     resp_int = int(resp_str)
